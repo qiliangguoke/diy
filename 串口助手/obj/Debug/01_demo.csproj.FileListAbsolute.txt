@@ -1,0 +1,11 @@
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\01_demo.csproj.AssemblyReference.cache
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\01_demo.csproj.SuggestedBindingRedirects.cache
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\_01_demo.Form1.resources
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\_01_demo.Properties.Resources.resources
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\01_demo.csproj.GenerateResource.cache
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\01_demo.csproj.CoreCompileInputs.cache
+C:\mine\winform串口助手_diy工作坊\01_demo\bin\Debug\01_demo.exe.config
+C:\mine\winform串口助手_diy工作坊\01_demo\bin\Debug\01_demo.exe
+C:\mine\winform串口助手_diy工作坊\01_demo\bin\Debug\01_demo.pdb
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\01_demo.exe
+C:\mine\winform串口助手_diy工作坊\01_demo\obj\Debug\01_demo.pdb
